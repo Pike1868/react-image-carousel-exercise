@@ -1,3 +1,6 @@
+# React Image Carousel
+- Image carousel application to practice working with props, defaultProps, state, events and testing with React-Testing-Library.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
